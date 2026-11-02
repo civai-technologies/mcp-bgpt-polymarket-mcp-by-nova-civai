@@ -1,0 +1,20 @@
+{
+  "slug": "mcp-bgpt-polymarket",
+  "repo": "mcp-bgpt-polymarket-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/mcp-bgpt-polymarket-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "bgpt",
+    "polymarket"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/mcp-bgpt-polymarket"
+}
